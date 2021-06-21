@@ -9,7 +9,7 @@ setuptools.setup(
     name="WDcv",
     version=__version__,
     author="Wood",
-    author_email="dusl0713@thundersoft.com",
+    author_email="***",
     description="WDcv",
     long_description="WDcv.",
     url="https://github.com/Wood/WDcv",
